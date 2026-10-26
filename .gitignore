@@ -1,0 +1,19 @@
+# Local configuration and secrets
+
+.env
+.env.*
+!.env.example
+
+# Local database backups
+
+*.sql
+*.sql.zip
+
+# Git files
+
+.git/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
