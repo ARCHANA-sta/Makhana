@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+*.sql
+*.sql.zip
+database-init/
+.DS_Store
+Thumbs.db
